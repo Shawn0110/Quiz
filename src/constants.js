@@ -1,4 +1,4 @@
-const quizzes = [
+const QUIZZES = [
 	{
 		id: 1,
 		question: "Which one is the biggest cat breed?",
@@ -51,4 +51,4 @@ const quizzes = [
 	},
 ];
 
-export { quizzes };
+export { QUIZZES };
